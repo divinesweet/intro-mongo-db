@@ -39,11 +39,11 @@ sudo chown -R $USER /data/db
 
 This exercise will have you create connection logic and mongoose schemas. Using the schema, you must create some CRUD functionality.
 
-- [ ] check out to the `start` branch
-- [ ] install node modules with npm or yarn
-- [ ] check the README on how to run test
-- [ ] create connection logic on `connect.js`
-- [ ] finish the user schema so that the the user model tests pass
+- [x] check out to the `start` branch
+- [x] install node modules with npm or yarn
+- [x] check the README on how to run test
+- [x] create connection logic on `connect.js`
+- [x] finish the user schema so that the the user model tests pass
 - [ ] complete the crud functions with the user model and get all the crud test to pass 
 
 ### Queries
